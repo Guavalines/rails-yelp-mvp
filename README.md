@@ -26,3 +26,4 @@
  rails server
  ```
  
+ Open you browser and visit localhost:3000
