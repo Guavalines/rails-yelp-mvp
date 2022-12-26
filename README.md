@@ -7,3 +7,8 @@
 - Designing a schema
 - Creating routes that mirror user stories
 - Using Simple Form
+
+
+## Initialize these before starting the app:
+
+### Versions
