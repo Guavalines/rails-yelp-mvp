@@ -8,6 +8,8 @@
 - Creating routes that mirror user stories
 - Using Simple Form
 
+![Restaurants](https://user-images.githubusercontent.com/100665876/210531433-3b4c5fad-339e-4584-be08-7dca989ec1f9.jpeg)
+
 
 ## Initialize these before starting the app:
 
