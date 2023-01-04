@@ -1,4 +1,4 @@
-# YELP MVP
+# YELP Minimum Viable Product
 ### This is a 2 model Rails app where users can create restaurants that other users can rate and review.
 
 #### FEATURES:
