@@ -1,8 +1,5 @@
 # YELP MVP
-### Two-model Rails app with a restaurant and anonymous reviews.
-
-### MAIN FEATURES
-People can create restaurants(name, address) and other users can review them (rating, and review)
+### This is a two-model Rails app where users can create restaurants (name, address) that other users can review (rating, and review)
 
 #### Features:
 - Adding validations
