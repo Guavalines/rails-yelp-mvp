@@ -1,5 +1,5 @@
 # YELP MVP
-### This is a two-model Rails app where users can create restaurants that other users can rate and review.
+### This is a 2 model Rails app where users can create restaurants that other users can rate and review.
 
 #### FEATURES:
 - Adding validations
