@@ -21,7 +21,7 @@
 ![Review](https://user-images.githubusercontent.com/100665876/210532019-6d5e4385-b4fb-4446-82d1-3d55c01a71a6.jpeg)
 
 
-## Initialize these before starting the app:
+## Please initialize these before starting the app:
 
 ### Versions
 
@@ -38,4 +38,4 @@
  rails server
  ```
  
- Open you browser and visit localhost:3000
+ Open your browser and visit localhost:3000
