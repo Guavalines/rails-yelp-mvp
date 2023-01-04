@@ -10,7 +10,11 @@
 
 ![Restaurants](https://user-images.githubusercontent.com/100665876/210531433-3b4c5fad-339e-4584-be08-7dca989ec1f9.jpeg)
 
+#### Users can CREATE a new restaurant:
+
 ![New Restaurant](https://user-images.githubusercontent.com/100665876/210531869-83d74af6-e998-4f4c-a4cb-d361f2ac08df.jpeg)
+
+#### Users can REVIEW/RATE a restaurant:
 
 ![Submit a Review](https://user-images.githubusercontent.com/100665876/210531951-41c748be-1fa0-4a7b-b57a-c3499c7a4f3c.jpeg)
 
