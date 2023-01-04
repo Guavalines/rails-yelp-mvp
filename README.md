@@ -1,5 +1,5 @@
 # YELP MVP
-### This is a two-model Rails app where users can create restaurants (name, address) that other users can review (rating, and review)
+### This is a two-model Rails app where users can create restaurants (name, address) that other users can review/rate
 
 #### Features:
 - Adding validations
@@ -9,6 +9,12 @@
 - Using Simple Form
 
 ![Restaurants](https://user-images.githubusercontent.com/100665876/210531433-3b4c5fad-339e-4584-be08-7dca989ec1f9.jpeg)
+
+![New Restaurant](https://user-images.githubusercontent.com/100665876/210531869-83d74af6-e998-4f4c-a4cb-d361f2ac08df.jpeg)
+
+![Submit a Review](https://user-images.githubusercontent.com/100665876/210531951-41c748be-1fa0-4a7b-b57a-c3499c7a4f3c.jpeg)
+
+![Review](https://user-images.githubusercontent.com/100665876/210532019-6d5e4385-b4fb-4446-82d1-3d55c01a71a6.jpeg)
 
 
 ## Initialize these before starting the app:
